@@ -10,6 +10,7 @@ BIO
   -  currently working with: `.javascript` `.nodejs` `.java` 
   -  worked with: `.python` `.django` `.ruby`  `.react` `.html` `.css`
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samuel-raducan-3b9683199/)
+- 📝 View my [CV](https://github.com/samuelmbp/CV) 
 
 [![Samuel Raducan's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelmbp&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
