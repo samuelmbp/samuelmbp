@@ -9,7 +9,8 @@ BIO
 - 🌱 I’m currently learning ```.java``` by building [Hangman Word Guessing](https://github.com/samuelmbp/word-guessing)
 - 🔭 Working on [Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms) exercises to enhance my problem-solving thinking 
 - ⚙️ Technologies
-  -  worked with: `.javascript` `.nodejs` `.python` `.django` `.ruby`  `.react` `.html` `.css`
+  - working with: ```.java```, ```.javascript```, ```.nodejs``` 
+  - worked with:  `.python` `.django` `.ruby`  `.react` `.html` `.css`
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samuel-raducan-3b9683199/)
 - 📝 View my [CV](https://github.com/samuelmbp/CV) 
 
