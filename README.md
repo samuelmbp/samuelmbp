@@ -4,11 +4,12 @@
 BIO
 
 - 💻 I'm a Software Developer based in London, UK.
-- 🎓 Software Engineering Graduate | [Makers Academy](https://makers.tech/)
+- 🎓 Software Engineer Graduate | [Makers Academy](https://makers.tech/)
 - 👉🏼 I enjoy working with other people and being challenged on new projects.
+- 🌱 I’m currently learning ```.java``` by building [Hangman Word Guessing](https://github.com/samuelmbp/word-guessing)
+- 🔭 Working on [Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms) to enhance my problem-solving thinking 
 - ⚙️ Technologies
-  -  currently working with: `.javascript` `.nodejs` `.java` 
-  -  worked with: `.python` `.django` `.ruby`  `.react` `.html` `.css`
+  -  worked with: `.javascript` `.nodejs` `.python` `.django` `.ruby`  `.react` `.html` `.css`
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samuel-raducan-3b9683199/)
 - 📝 View my [CV](https://github.com/samuelmbp/CV) 
 
