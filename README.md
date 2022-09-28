@@ -3,8 +3,7 @@
 
 BIO
 
-- 💻 I'm a Software Developer based in London, UK.
-- 🎓 Software Engineer Graduate | [Makers Academy](https://makers.tech/)
+- 💻 I'm a Software Engineer graduate from [Makers Academy](https://makers.tech/) based in London, UK.
 - 👉🏼 I enjoy working with other people and being challenged on new projects.
 - 🌱 I’m currently learning ```.java``` by building [Hangman Word Guessing](https://github.com/samuelmbp/word-guessing)
 - 🔭 Working on [Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms) exercises to enhance my problem-solving thinking 
