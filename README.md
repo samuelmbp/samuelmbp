@@ -3,9 +3,9 @@
 
 BIO
 
-- 💻 I'm a Software Developer based in London, UK.
-- 👉🏼 I enjoy working with other people and being challenged on new projects.
-- 🌱 I’m currently learning ```.java``` & ```.spring boot``` by building [Spring Boot API](https://github.com/samuelmbp/spring-boot-api)
+- 💻 I'm a Software Developer based in London, UK
+- 👉🏼 I enjoy working with other people and being challenged on new projects
+- 🌱 I’m currently learning ```.Java``` & ```.Spring Boot``` by building [Spring Boot Registration System](https://github.com/samuelmbp/java-springboot-registration-system)
 - 🔭 Working on [Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms) exercises to enhance my problem-solving thinking 
 - ⚙️ Technologies
   - working with: ```.java```, ```.spring boot```, ```.javascript```, ```.nodejs``` 
