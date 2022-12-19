@@ -4,11 +4,11 @@
 BIO
 
 - 💻 I'm a Software Developer based in London, UK
-- 🌱 I’m currently learning `.react with .redux`
+- 🌱 I’m currently learning `React with Redux`
 - 🔭 Working on **[Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms)** exercises to enhance my problem-solving thinking 
 - ⚙️ Technologies
-  - working with: `.javascript` `.react` `.nodejs` `.html` `.css`
-  - worked with:  `.java` `.spring boot` `.python` `.django` `.ruby`  
+  - working with: `JavaScript` | `React` | `NodeJS` | `HTML` | `CSS`
+  - worked with:  `Java` | `Spring Boot` | `Python` | `Django` | `Ruby`  
 - 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/samuel-raducan-3b9683199/)**
 - 📝 View my **[CV](https://github.com/samuelmbp/CV)**
   
