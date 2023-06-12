@@ -3,7 +3,7 @@
 BIO
 
 - 💻 I'm a Software Developer based in London, UK
-- 📚 I’m currently preparing for the AWS Certified Solutions Architect - Associate Certification
+- 📚 I’m currently preparing for the **[AWS Certified Solutions Architect - Associate Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/)**
 - 👨🏻‍💻 Working on **[Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms)** exercises to enhance my problem-solving thinking
 - ⚙️ Technologies
   - working with: `Java` | `Spring` | `PostgreSQL` | `AWS`
