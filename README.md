@@ -14,7 +14,7 @@ BIO
 <!--
 [![Samuel Raducan's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelmbp&show_icons=true&theme=highcontrast)](https://github.com/samuelmbp/github-readme-stats) -->
 
-<div align="center">
+<div>
   <a href="http://www.github.com/samuelmbp">
     <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelmbp&show_icons=true&theme=yeblu"/> -->
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmbp&layout=compact&theme=yeblu&langs_count=5"/>
