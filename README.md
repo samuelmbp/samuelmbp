@@ -4,10 +4,10 @@ BIO
 
 - 💻 I'm a Software Developer based in London, UK
 - 📚 I’m currently preparing for the **[AWS Certified Solutions Architect - Associate Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/)**
-- 👨🏻‍💻 Working on **[Data Structure & Algorithms](https://github.com/samuelmbp/data-structure-and-algorithms)** exercises to enhance my problem-solving thinking
+- 👨🏻‍💻 Working on **[GameHubX](https://github.com/samuelmbp/game-hubx)** project
 - ⚙️ Technologies
-  - working with: `Java` | `Spring` | `PostgreSQL` | `AWS`
-  - worked with: `JavaScript` | `React` | `NodeJS` |`Python` | `Django` | `Ruby` |`MongoDB`
+  - working with: `React` | `TypeScript` | `Node.js` | `Express.js` | `MongoDB` | `PostgreSQL`
+  - worked with: `Java` | `Spring` | `Python` | `Django` | `Ruby`
 - 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/samuel-raducan-3b9683199/)**
 - 📝 View my **[CV](https://github.com/samuelmbp/CV)**
 
