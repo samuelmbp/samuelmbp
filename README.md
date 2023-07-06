@@ -9,7 +9,7 @@ BIO
   - working with: `React` | `TypeScript` | `Node.js` | `Express.js` | `MongoDB` | `PostgreSQL`
   - worked with: `Java` | `Spring` | `Python` | `Django` | `Ruby`
 - 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/samuel-raducan-3b9683199/)**
-- 📝 View my **[CV](https://github.com/samuelmbp/CV)**
+<!-- - 📝 View my **[CV](https://github.com/samuelmbp/CV)** -->
 
 <!--
 [![Samuel Raducan's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelmbp&show_icons=true&theme=highcontrast)](https://github.com/samuelmbp/github-readme-stats) -->
