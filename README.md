@@ -4,7 +4,7 @@ BIO
 
 - 💻 I'm a Software Developer based in London, UK
 - 📚 I’m currently preparing for the **[AWS Certified Solutions Architect - Associate Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/)**
-- 👨🏻‍💻 Working on **[GameHubX](https://github.com/samuelmbp/game-hubx)** project
+<!-- - 👨🏻‍💻 Working on **[GameHubX](https://github.com/samuelmbp/game-hubx)** project -->
 - ⚙️ Technologies
   - working with: `React` | `TypeScript` | `Node.js` | `Express.js` | `MongoDB` | `PostgreSQL`
   - worked with: `Java` | `Spring` | `Python` | `Django` | `Ruby`
