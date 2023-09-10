@@ -1,5 +1,9 @@
 ## Hi there 👋🏼, I'm Samuel.
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelmbp&label=Profile%20views&color=0e75b6&style=flat" alt="samuelmbp" /> </p> -->
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelmbp" alt="samuelraducan" /></a> </p> -->
+
 BIO
 
 - 💻 I'm a Software Developer based in London, UK
@@ -15,13 +19,16 @@ BIO
 <!--
 [![Samuel Raducan's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelmbp&show_icons=true&theme=highcontrast)](https://github.com/samuelmbp/github-readme-stats) -->
 
+<!-- <h3>Languages & Tools:</h3> -->
+
 <div>
   <a href="http://www.github.com/samuelmbp">
     <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelmbp&show_icons=true&theme=yeblu"/> -->
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmbp&layout=compact&theme=yeblu&langs_count=5"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelmbp&layout=compact&theme=yeblu" alt="samuelraducan" /></p>
+
   </a>
 </div>
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmbp&layout=compact)](https://github.com/samuelmbp/github-readme-stats) -->
 
 <!--
