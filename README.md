@@ -10,20 +10,31 @@ BIO
 - 📚 I’m currently preparing for the **[AWS Certified Solutions Architect - Associate Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/)**
 - 👨🏻‍💻 Working on **[The Wild Oasis](https://github.com/samuelmbp/the-wild-oasis)** project
 
-- ⚙️ Technologies
-  - working with: `React` | `TypeScript` | `Node.js` | `Express.js` | `MongoDB` | `PostgreSQL`
-  - worked with: `Java` | `Spring` | `Python` | `Django` | `Ruby`
-- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/samuel-raducan-3b9683199/)**
-<!-- - 📝 View my **[CV](https://github.com/samuelmbp/CV)** -->
+- ⚙️ Technologies & Tools
 
-<!--
-[![Samuel Raducan's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelmbp&show_icons=true&theme=highcontrast)](https://github.com/samuelmbp/github-readme-stats) -->
+  - working with: ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript)
+    ![React](https://img.shields.io/badge/-React-fff?&logo=React)
+    ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript)
+    ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
+    ![Express.js](https://img.shields.io/badge/-Express.js-fff?&logo=express.js)
+    ![HTML.js](https://img.shields.io/badge/-HTML-fff?&logo=HTML)
+    ![CSS.js](https://img.shields.io/badge/-CSS-fff?&logo=CSS)
+    ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
+    ![PostgreSQL](https://img.shields.io/badge/-SQL-fff?&logo=PostgreSQL)
+    ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=F90)
+  - worked with:
+    ![Java](https://img.shields.io/badge/-Java-fff?&logo=Java)
+    ![Spring Boot](https://img.shields.io/badge/-SpringBoot-fff?&logo=SpringBoot)
+    <!-- ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
+    ![Django](https://img.shields.io/badge/-Django-fff?&logo=Django) -->
+
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-raducan-3b9683199/)
+<!-- - 📝 View my **[CV](https://github.com/samuelmbp/CV)** -->
 
 <!-- <h3>Languages & Tools:</h3> -->
 
 <div>
   <a href="http://www.github.com/samuelmbp">
-    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samuelmbp&show_icons=true&theme=yeblu"/> -->
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmbp&layout=compact&theme=yeblu&langs_count=5"/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelmbp&layout=compact&theme=yeblu" alt="samuelraducan" /></p>
 
