@@ -7,8 +7,9 @@
 BIO
 
 - 💻 I'm a Software Developer based in London, UK
-- 📚 I’m currently preparing for the **[AWS Certified Solutions Architect - Associate Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/)**
-- 👨🏻‍💻 Working on **[The Wild Oasis](https://github.com/samuelmbp/the-wild-oasis)** project
+- 🌐 [Portfolio Website](https://samuel-raducan.vercel.app/)
+<!-- - 📚 I’m currently preparing for the **[AWS Certified Solutions Architect - Associate Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/)** -->
+- 👨🏻‍💻 I am currently working on **[AI Summarizer](https://github.com/samuelmbp/ai-summarizer)**
 
 - ⚙️ Technologies & Tools
 
