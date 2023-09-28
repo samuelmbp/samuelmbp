@@ -1,10 +1,7 @@
 ## Hi there 👋🏼, I'm Samuel.
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelmbp&label=Profile%20views&color=0e75b6&style=flat" alt="samuelmbp" /> </p> -->
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelmbp" alt="samuelraducan" /></a> </p> -->
-
-🌐 **[Portfolio Website](https://samuel-raducan.vercel.app/)**
+**<a href="https://samuel-raducan.vercel.app/" target='_blank'>🌐 Portfolio Website</a>**
 
 **BIO**
 
