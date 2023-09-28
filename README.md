@@ -4,10 +4,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelmbp" alt="samuelraducan" /></a> </p> -->
 
-BIO
+🌐 **[Portfolio Website](https://samuel-raducan.vercel.app/)**
+
+**BIO**
 
 - 💻 I'm a Software Developer based in London, UK
-- 🌐 [Portfolio Website](https://samuel-raducan.vercel.app/)
 <!-- - 📚 I’m currently preparing for the **[AWS Certified Solutions Architect - Associate Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/)** -->
 - 👨🏻‍💻 I am currently working on **[AI Summarizer](https://github.com/samuelmbp/ai-summarizer)**
 
