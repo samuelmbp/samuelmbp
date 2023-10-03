@@ -1,50 +1,44 @@
 ## Hi there 👋🏼, I'm Samuel.
 
-
 **<a href="https://samuel-raducan.vercel.app/" target='_blank'>🌐 Portfolio Website</a>**
 
-**BIO**
+💻 I'm a Software Developer based in London, UK
 
-- 💻 I'm a Software Developer based in London, UK
-<!-- - 📚 I’m currently preparing for the **[AWS Certified Solutions Architect - Associate Certification](https://aws.amazon.com/certification/certified-solutions-architect-associate/)** -->
-- 👨🏻‍💻 I am currently working on **[AI Summarizer](https://github.com/samuelmbp/ai-summarizer)**
+- 🎓 Makers Academy, Software Engineering Bootcamp
+- 📜 AWS Certified Cloud Practitioner
 
-- ⚙️ Technologies & Tools
+<h4>Languages & Tools:</h4>
 
-  - working with: ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript)
-    ![React](https://img.shields.io/badge/-React-fff?&logo=React)
-    ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript)
-    ![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
-    ![Express.js](https://img.shields.io/badge/-Express.js-fff?&logo=express.js)
-    ![HTML.js](https://img.shields.io/badge/-HTML-fff?&logo=HTML)
-    ![CSS.js](https://img.shields.io/badge/-CSS-fff?&logo=CSS)
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
-    ![PostgreSQL](https://img.shields.io/badge/-SQL-fff?&logo=PostgreSQL)
-    ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=F90)
-  - worked with:
-    ![Java](https://img.shields.io/badge/-Java-fff?&logo=Java)
-    ![Spring Boot](https://img.shields.io/badge/-SpringBoot-fff?&logo=SpringBoot)
-    <!-- ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
-    ![Django](https://img.shields.io/badge/-Django-fff?&logo=Django) -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-fff?&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript)
+![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-fff?&logo=express.js)
+![HTML.js](https://img.shields.io/badge/-HTML-fff?&logo=HTML)
+![CSS.js](https://img.shields.io/badge/-CSS-fff?&logo=CSS)
+![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-SQL-fff?&logo=PostgreSQL)
+![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=F90)
 
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-raducan-3b9683199/)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-fff?&logo=SpringBoot)
+
+  <!-- ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
+  ![Django](https://img.shields.io/badge/-Django-fff?&logo=Django) -->
+
+#
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-raducan-3b9683199/)
+
 <!-- - 📝 View my **[CV](https://github.com/samuelmbp/CV)** -->
-
-<!-- <h3>Languages & Tools:</h3> -->
-
+<!--
 <div>
   <a href="http://www.github.com/samuelmbp">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmbp&layout=compact&theme=yeblu&langs_count=5"/>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelmbp&layout=compact&theme=yeblu" alt="samuelraducan" /></p>
 
   </a>
-</div>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmbp&layout=compact)](https://github.com/samuelmbp/github-readme-stats) -->
-
-<!--
-![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmbp&layout=compact&theme=dracula&langs_count=7) -->
-
-<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taybenca&layout=compact&theme=dracula&langs_count=7"/> -->
+</div> -->
 
 <!--
 Here are some ideas to get you started:
