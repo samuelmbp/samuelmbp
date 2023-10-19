@@ -2,8 +2,9 @@
 
 **<a href="https://samuel-raducan.vercel.app/" target='_blank'>🌐 Portfolio Website</a>**
 
-💻 I'm a Software Developer based in London, UK
+I'm a Software Developer based in London, UK
 
+- 💻 I'm currently working on **[Issue Tracker](https://github.com/samuelmbp/issue-tracker)** using React, Next.js | TypeScript | PostgreSQL, Prisma
 - 🎓 Makers Academy, Software Engineering Bootcamp
 - 📜 AWS Certified Cloud Practitioner
 
