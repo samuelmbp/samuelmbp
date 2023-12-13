@@ -4,9 +4,10 @@
 
 I'm a Full Stack Engineer based in London, UK
 
-- 💻 I'm currently working on **[Issue Tracker](https://github.com/samuelmbp/issue-tracker)** using React, Next.js | TypeScript | PostgreSQL, Prisma
-- 🎓 Makers Academy, Software Engineering Bootcamp
-- 📜 AWS Certified Cloud Practitioner
+<!-- - 💻 I'm currently working on **[Issue Tracker](https://github.com/samuelmbp/issue-tracker)** using React, Next.js | TypeScript | PostgreSQL, Prisma -->
+
+-   🎓 Makers Academy, Software Engineering Bootcamp
+-   📜 AWS Certified Cloud Practitioner
 
 <h4>Languages & Tools:</h4>
 
