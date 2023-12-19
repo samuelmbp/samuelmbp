@@ -6,6 +6,7 @@ I'm a Full Stack Engineer based in London, UK
 
 <!-- - 💻 I'm currently working on **[Issue Tracker](https://github.com/samuelmbp/issue-tracker)** using React, Next.js | TypeScript | PostgreSQL, Prisma -->
 
+-   💻 Currently diving deep into the [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 -   🎓 Makers Academy, Software Engineering Bootcamp
 -   📜 AWS Certified Cloud Practitioner
 
