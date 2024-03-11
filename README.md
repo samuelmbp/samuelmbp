@@ -1,13 +1,16 @@
 ## Hi there 👋🏼, I'm Samuel.
 
-**<a href="https://samuel-raducan.vercel.app/" target='_blank'>🌐 Portfolio Website</a>**
+<!-- **<a href="https://samuel-raducan.vercel.app/" target='_blank'>🌐 Portfolio Website</a>** -->
 
 I'm a Full Stack Engineer based in London, UK
 
 <!-- - 💻 I'm currently working on **[Issue Tracker](https://github.com/samuelmbp/issue-tracker)** using React, Next.js | TypeScript | PostgreSQL, Prisma -->
 
--   💻 Currently diving deep into the [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
--   🎓 Makers Academy, Software Engineering Bootcamp
+<!-- -   💻 Currently diving deep into the [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer) -->
+
+<!-- -   🎓 Makers Academy, Software Engineering Bootcamp -->
+
+-   💻 I'm currently immersed in a 12-week Software Development training with [\_nology](https://nology.io/)
 -   📜 AWS Certified Cloud Practitioner
 
 <h4>Languages & Tools:</h4>
