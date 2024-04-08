@@ -1,40 +1,27 @@
 ## Hi there 👋🏼, I'm Samuel.
 
-**<a href="https://samuel-raducan.vercel.app/" target='_blank'>View My Portfolio Website 🌐 </a>**
+[Portfolio Website 🌐](https://samuel-raducan.vercel.app/)
 
 I'm a Full Stack Engineer based in London, UK
+
+-   💻 I'm currently immersed in a 12-week Software Development training with [\_nology](https://nology.io/)
+-   📜 AWS Certified Cloud Practitioner
+
+<h4>Languages & Tools</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,express,html,css,mongodb,postgresql,aws&theme=dark)](https://skillicons.dev)
+
+<h4>📫 How to reach me</h4>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/samuel-raducan-3b9683199/)
+
+<!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-raducan-3b9683199/) -->
 
 <!-- - 💻 I'm currently working on **[Issue Tracker](https://github.com/samuelmbp/issue-tracker)** using React, Next.js | TypeScript | PostgreSQL, Prisma -->
 
 <!-- -   💻 Currently diving deep into the [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer) -->
 
 <!-- -   🎓 Makers Academy, Software Engineering Bootcamp -->
-
--   💻 I'm currently immersed in a 12-week Software Development training with [\_nology](https://nology.io/)
--   📜 AWS Certified Cloud Practitioner
-
-<h4>Languages & Tools:</h4>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-fff?&logo=React)
-![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript)
-![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-fff?&logo=express.js)
-![HTML.js](https://img.shields.io/badge/-HTML-fff?&logo=HTML)
-![CSS.js](https://img.shields.io/badge/-CSS-fff?&logo=CSS)
-![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
-![PostgreSQL](https://img.shields.io/badge/-SQL-fff?&logo=PostgreSQL)
-![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=F90)
-
-![Java](https://img.shields.io/badge/-Java-fff?&logo=Java)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-fff?&logo=SpringBoot)
-
-  <!-- ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
-  ![Django](https://img.shields.io/badge/-Django-fff?&logo=Django) -->
-
-#
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-raducan-3b9683199/)
 
 <!-- - 📝 View my **[CV](https://github.com/samuelmbp/CV)** -->
 <!--
