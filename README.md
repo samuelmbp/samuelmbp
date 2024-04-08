@@ -1,6 +1,6 @@
 ## Hi there 👋🏼, I'm Samuel.
 
-<!-- **<a href="https://samuel-raducan.vercel.app/" target='_blank'>🌐 Portfolio Website</a>** -->
+**<a href="https://samuel-raducan.vercel.app/" target='_blank'>View My Portfolio Website 🌐 </a>**
 
 I'm a Full Stack Engineer based in London, UK
 
