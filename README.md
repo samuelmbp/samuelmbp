@@ -7,9 +7,9 @@ I'm a Full Stack Engineer based in London, UK
 -   💻 I'm currently immersed in a 12-week Software Development training with [\_nology](https://nology.io/)
 -   📜 AWS Certified Cloud Practitioner
 
-<h4>Languages & Tools</h4>
+<h4>⚙️ Languages & Tools</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,express,html,css,mongodb,postgresql,aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,express,html,css,scss,mongodb,postgresql,aws&theme=dark)](https://skillicons.dev)
 
 <h4>📫 How to reach me</h4>
 
