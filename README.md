@@ -5,8 +5,9 @@
 
 [Portfolio Website 🌐](https://samuel-raducan.vercel.app/)
 
--   💻 I'm currently immersed in a 12-week Software Development training with [\_nology](https://nology.io/)
+<!-- -   💻 I'm currently immersed in a 12-week Software Development training with [\_nology](https://nology.io/) -->
 -   📜 AWS Certified Cloud Practitioner
+-   🎓 Graduated from [\_nology](https://nology.io/), a 12-week intensive Software Development training program focused on JavaScript, React, TypeScript, Java, Spring, and SQL, with an emphasis on practical application and hands-on experience.
 
 <br/>
 
