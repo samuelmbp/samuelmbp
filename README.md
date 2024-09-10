@@ -8,19 +8,9 @@
 -   📜 AWS Certified Cloud Practitioner
 -   ⚡ Fun fact: When I'm not coding, you’ll find me at the gym lifting weights 🏋🏿 or enjoying a cup of coffee ☕
 
-<br/>
-
 ### ⚙️ Languages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,express,html,css,scss,mongodb,postgresql,aws&theme=dark)](https://skillicons.dev)
-
-<div>
-<a href="http://www.github.com/samuelmbp">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmbp&layout=compact&theme=yeblu&langs_count=5"/>
-  <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelmbp&layout=compact&theme=yeblu" alt="samuelraducan" /></p> -->
-
-  </a>
-</div>
 
 ### 📫 How to reach me
 
