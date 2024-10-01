@@ -5,7 +5,7 @@
 
 [Portfolio Website 🌐](https://samuel-raducan.vercel.app/)
 
--   🔭 I’m currently developing [Shop Express](https://github.com/samuelmbp/shop-express), a full-stack MERN e-commerce web application
+-   🔭 I’m currently working on [Shop Express](https://github.com/samuelmbp/shop-express), a full-stack MERN e-commerce web application
 -   🤝 Always open to collaboration and learning opportunities
 -   📜 AWS Certified Cloud Practitioner
 -   ⚡ Fun fact: When I'm not coding, you’ll find me at the gym lifting weights 🏋🏿 or enjoying a cup of coffee ☕
